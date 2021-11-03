@@ -1,0 +1,48 @@
+body{
+    background: linear-gradient(to top, rgb(0, 255, 21), rgb(255, 174, 0));
+    margin:0;
+    padding:0;
+}
+ul{
+    list-style-type:none;
+}
+li{
+    float: right;
+}
+#nav{
+    width: 100%;
+    height:13vh;
+    background: rgb(98, 98, 220);
+}
+#heading{
+    float: left;
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a{
+    font-size: 40px;
+    margin-right: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    text-decoration: none;
+    padding: 10px 10px;
+}
+a:hover{
+    background: black;
+    color:aliceblue;
+}
+#first{
+    height: 100vh;
+    width:100%;
+    background-image: url("https://wallsdesk.com/wp-content/uploads/2016/11/Angry-Birds-HD.jpg");
+    background-size: cover;
+    background-position: center;
+}
+#first img{
+    margin-top: 5rem;
+    margin-left: 60rem;
+    width: 20%;
+}
+#imagetwo img{
+    width:100%
+}
